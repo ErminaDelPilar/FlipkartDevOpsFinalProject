@@ -44,7 +44,7 @@ public class FlipkartTest {
 	@Test(priority = 1)
 	public void closeLoginModal() {
 		// Close the Login Modal Screen
-		driver.findElement(By.xpath("//button[text()='✕']")).click();
+		driver.findElement(By.xpath("//button[@class='_2KpZ6l _2doB4z']")).click();
 	}
 
 	@Test(priority = 2)
