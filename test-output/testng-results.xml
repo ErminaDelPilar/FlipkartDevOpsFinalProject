@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T20:09:17 PDT" name="Default suite" finished-at="2023-04-24T20:09:39 PDT" duration-ms="21937">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T20:09:17 PDT" name="Default test" finished-at="2023-04-24T20:09:39 PDT" duration-ms="21937">
+      <class name="co.edureka.devops.FlipkartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:17 PDT" name="setup" finished-at="2023-04-24T20:09:21 PDT" duration-ms="4231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="closeLoginModal()[pri:1, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:21 PDT" name="closeLoginModal" finished-at="2023-04-24T20:09:21 PDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeLoginModal -->
+        <test-method signature="hoverOnElectronicsMenu()[pri:2, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:21 PDT" name="hoverOnElectronicsMenu" finished-at="2023-04-24T20:09:22 PDT" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOnElectronicsMenu -->
+        <test-method signature="verifyLatestFromMI()[pri:3, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:22 PDT" name="verifyLatestFromMI" finished-at="2023-04-24T20:09:26 PDT" duration-ms="4070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLatestFromMI -->
+        <test-method signature="changePriceSlider()[pri:4, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:26 PDT" name="changePriceSlider" finished-at="2023-04-24T20:09:26 PDT" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePriceSlider -->
+        <test-method signature="searchProduct()[pri:5, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:26 PDT" name="searchProduct" finished-at="2023-04-24T20:09:26 PDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="clickOnFirstProduct()[pri:6, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:26 PDT" name="clickOnFirstProduct" finished-at="2023-04-24T20:09:27 PDT" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFirstProduct -->
+        <test-method signature="verifyProductAmount()[pri:7, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:27 PDT" name="verifyProductAmount" finished-at="2023-04-24T20:09:29 PDT" duration-ms="2158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAmount -->
+        <test-method signature="playProductVideo()[pri:8, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:29 PDT" name="playProductVideo" finished-at="2023-04-24T20:09:38 PDT" duration-ms="8792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playProductVideo -->
+        <test-method signature="enterDeliveryPincode()[pri:9, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:38 PDT" name="enterDeliveryPincode" finished-at="2023-04-24T20:09:38 PDT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDeliveryPincode -->
+        <test-method signature="verifyModalPopup()[pri:10, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:38 PDT" name="verifyModalPopup" finished-at="2023-04-24T20:09:38 PDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyModalPopup -->
+        <test-method signature="addToCart()[pri:11, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:38 PDT" name="addToCart" finished-at="2023-04-24T20:09:38 PDT" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:co.edureka.devops.FlipkartTest@34123d65]" started-at="2023-04-24T20:09:38 PDT" name="teardown" finished-at="2023-04-24T20:09:39 PDT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- co.edureka.devops.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
