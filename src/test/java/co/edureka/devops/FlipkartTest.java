@@ -138,7 +138,7 @@ public class FlipkartTest {
 		WebDriverWait w = new WebDriverWait(driver, Duration.ofSeconds(10)); 
 		w.until(ExpectedConditions.visibilityOfElementLocated(By.id("movie_player")));
 		playButton.click();
-		//Thread.sleep(5000);
+		Thread.sleep(5000);
 		driver.switchTo().defaultContent();
 	}
 
