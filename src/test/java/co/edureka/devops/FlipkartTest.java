@@ -126,7 +126,7 @@ public class FlipkartTest {
 		// Click on image thumbnail displayed on the left side which has a play video
 		// icon (use IFrame)
 		
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		WebElement videoThumbnail = driver
 				.findElement(By.xpath("//div[@class='_3g-Cpg']"));
 	
@@ -138,7 +138,7 @@ public class FlipkartTest {
 		WebDriverWait w = new WebDriverWait(driver, Duration.ofSeconds(10)); 
 		w.until(ExpectedConditions.visibilityOfElementLocated(By.id("movie_player")));
 		playButton.click();
-		Thread.sleep(5000);
+		//Thread.sleep(5000);
 		driver.switchTo().defaultContent();
 	}
 
